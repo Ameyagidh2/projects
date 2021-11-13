@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636473814 source:d:\a drive\python\c++\tictactoe\tictactoe\main.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+
