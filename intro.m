@@ -1,0 +1,9 @@
+x=[1,2;2,5]
+inva=inv(x)
+transpose=x'
+sinn=sin(x)
+poww=x.^2
+figure
+plot(x,tan(x))
+b=[2,3,4,5;7,8,9,10;4,5,6,8];
+reshape(b,4,3)
